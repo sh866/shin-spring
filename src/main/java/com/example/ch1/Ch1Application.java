@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Ch1Application {
 	public static void main(String[] args) {
+		System.out.println("new");
 		SpringApplication.run(Ch1Application.class, args);
 	}
 }
