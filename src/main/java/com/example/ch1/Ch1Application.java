@@ -14,6 +14,7 @@ public class Ch1Application {
 		System.out.println("new4");
 		System.out.println("return");
 		System.out.println("new5");
+		System.out.println("new6");
 		SpringApplication.run(Ch1Application.class, args);
 	}
 }
