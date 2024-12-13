@@ -9,6 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Ch1Application {
 	public static void main(String[] args) {
 		System.out.println("new");
+		System.out.println("new2");
+		System.out.println("new3");
 		SpringApplication.run(Ch1Application.class, args);
 	}
 }
